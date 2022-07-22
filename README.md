@@ -1,4 +1,3 @@
 # Python-Crash-Course
 Python Crash Course by Eric Matthes| Lessions done
-
-В этом репозитории будут выкладываться программы написаные по книге Python Crash Course by Eric Mattes.
+На данный момент дошёл до задания 8.2
