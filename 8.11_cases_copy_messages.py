@@ -14,8 +14,9 @@ sent_messages = []
 
 show_messages(user, sent_messages)
 send_messages(sent_messages)
+send_messages(sent_messages[:])
 
-print("\nsent_messages: ")
+print("\n")
 print(sent_messages)
-print("\nuser: ")
-print(user)
+print("\n")
+print(sent_messages[:])
